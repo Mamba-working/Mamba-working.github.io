@@ -1,6 +1,7 @@
 head:
     # 网站图标 多个随机
-    favicon: "https://q1.qlogo.cn/headimg_dl?bs=1106996185&dst_uin=1106996185&spec=100&url_enc=0&referer=bu_interface&term_type=PC"
+    favicon: "/img/三胖.jpg"
+    ##"https://q1.qlogo.cn/headimg_dl?bs=1106996185&dst_uin=1106996185&spec=100&url_enc=0&referer=bu_interface&term_type=PC"
 
 
 img:
@@ -21,7 +22,7 @@ img:
 
 uiux:
     #标语 多个随机
-    slogan: "拼命想抓住一些东西！"
+    slogan: "躲一躲"
     #主色 多个随机
     defaultPrimaryColor: "blue"
     #强调色 多个随机
@@ -145,9 +146,9 @@ footer:
   # 底部右间(移动端有所不同)  多个随机
   -
     -
-      拼命想抓住一些东西！
+      躲一躲啊！
     -
-      带你装逼带你飞！
+      啦啦啦
 live2d:
   enable: true
   scriptFrom: unpkg
