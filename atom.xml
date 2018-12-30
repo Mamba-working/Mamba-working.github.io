@@ -3,11 +3,11 @@
   <title>嘀嘀嘀</title>
   
   <subtitle>我的小博客</subtitle>
-  <link href="/Blog_Material/atom.xml" rel="self"/>
+  <link href="Mamba-working.coding.me/atom.xml" rel="self"/>
   
-  <link href="http://mamba-working.coding.me/Blog_Material/"/>
+  <link href="http://wufeifei.art/"/>
   <updated>2018-12-30T12:42:01.717Z</updated>
-  <id>http://mamba-working.coding.me/Blog_Material/</id>
+  <id>http://wufeifei.art/</id>
   
   <author>
     <name>Wu Yifei</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>年末了2018</title>
-    <link href="http://mamba-working.coding.me/Blog_Material/2018/12/29/nian-mo-liao-2018/"/>
-    <id>http://mamba-working.coding.me/Blog_Material/2018/12/29/nian-mo-liao-2018/</id>
+    <link href="http://wufeifei.art/2018/12/29/nian-mo-liao-2018/"/>
+    <id>http://wufeifei.art/2018/12/29/nian-mo-liao-2018/</id>
     <published>2018-12-29T15:24:55.000Z</published>
     <updated>2018-12-30T12:42:01.717Z</updated>
     
@@ -37,14 +37,14 @@
     </summary>
     
     
-      <category term="随心所欲" scheme="http://mamba-working.coding.me/Blog_Material/tags/%E9%9A%8F%E5%BF%83%E6%89%80%E6%AC%B2/"/>
+      <category term="随心所欲" scheme="http://wufeifei.art/tags/%E9%9A%8F%E5%BF%83%E6%89%80%E6%AC%B2/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://mamba-working.coding.me/Blog_Material/2018/12/29/hello-world/"/>
-    <id>http://mamba-working.coding.me/Blog_Material/2018/12/29/hello-world/</id>
+    <link href="http://wufeifei.art/2018/12/29/hello-world/"/>
+    <id>http://wufeifei.art/2018/12/29/hello-world/</id>
     <published>2018-12-29T15:12:33.899Z</published>
     <updated>2018-12-29T15:12:33.900Z</updated>
     
