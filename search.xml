@@ -5,8 +5,8 @@
     
     <entry>
       <title>年末了2018</title>
-      <link href="/2018/12/29/nian-mo-liao-2018/"/>
-      <url>/2018/12/29/nian-mo-liao-2018/</url>
+      <link href="/Blog_Material/2018/12/29/nian-mo-liao-2018/"/>
+      <url>/Blog_Material/2018/12/29/nian-mo-liao-2018/</url>
       
         <content type="html"><![CDATA[<h2 id="又是一年末🐴"><a href="#又是一年末🐴" class="headerlink" title="又是一年末🐴"></a>又是一年末🐴</h2><p>眼看着怎么又到了年末了，记不得去年年末怎么过的了。但是似乎也是在学校呢把</p><h2 id="回想下🐒"><a href="#回想下🐒" class="headerlink" title="回想下🐒"></a>回想下🐒</h2><p>今年做了什么呢，我用了大概1分钟的事件回想了下，今年其实和往年还是有些不同的一年了。<br>今年大四了，没有考研也就是说这是作为学生的最后一年了。<br>去年年末的时候我也决定了不考研去工作，开始了学习,找工作的旅程。</p><h3 id="一开始😨"><a href="#一开始😨" class="headerlink" title="一开始😨"></a>一开始😨</h3><p>记得今年春天的时候，当时第一次找工作，第一次面试，可以说也挺惨的，基本上面试啥都会挂，当时心里也没有多么难过，只是比较颓，也不想接着学了，想着不行的话就随便这个捞一点的工作混过去得了。<img src="http://ww1.sinaimg.cn/large/b17846e9ly1fyo1xusau7j20c809674e.jpg" alt="哭"><br>emmmm，最后面试面试似乎到4月份吧，终于面上了一家啦<img src="http://ww1.sinaimg.cn/large/b17846e9ly1fyo23ddu7yj20bo090mx3.jpg" alt="石墨文档">当时还是挺知足的啦，虽然说可能公司名气并不是很大，但是实习有了着落了，还是把悬着的心放下来了。于是就一个人去北京啊。<br>🤔好像去北京前，还和认识挺久的女生在一块了，不过也就很短就分开了👻</p>]]></content>
       
@@ -24,8 +24,8 @@
     
     <entry>
       <title>Hello World</title>
-      <link href="/2018/12/29/hello-world/"/>
-      <url>/2018/12/29/hello-world/</url>
+      <link href="/Blog_Material/2018/12/29/hello-world/"/>
+      <url>/Blog_Material/2018/12/29/hello-world/</url>
       
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
       
