@@ -3,10 +3,10 @@
   <title>嘀嘀嘀</title>
   
   <subtitle>我的小博客</subtitle>
-  <link href="/mamba-working.coding.me/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
   <link href="http://wufeifei.art/"/>
-  <updated>2018-12-31T13:41:15.095Z</updated>
+  <updated>2019-01-19T15:15:02.483Z</updated>
   <id>http://wufeifei.art/</id>
   
   <author>
@@ -17,11 +17,35 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>寒假寒假</title>
+    <link href="http://wufeifei.art/2019/01/19/han-jia-han-jia/"/>
+    <id>http://wufeifei.art/2019/01/19/han-jia-han-jia/</id>
+    <published>2019-01-19T13:10:35.000Z</published>
+    <updated>2019-01-19T15:15:02.483Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;又是寒假了&quot;&gt;&lt;a href=&quot;#又是寒假了&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="随心所欲" scheme="http://wufeifei.art/tags/%E9%9A%8F%E5%BF%83%E6%89%80%E6%AC%B2/"/>
+    
+  </entry>
+  
+  <entry>
     <title>年末了2018</title>
     <link href="http://wufeifei.art/2018/12/29/nian-mo-liao-2018/"/>
     <id>http://wufeifei.art/2018/12/29/nian-mo-liao-2018/</id>
     <published>2018-12-29T15:24:55.000Z</published>
-    <updated>2018-12-31T13:41:15.095Z</updated>
+    <updated>2019-01-19T15:16:04.373Z</updated>
     
     <summary type="html">
     
@@ -38,28 +62,6 @@
     
     
       <category term="随心所欲" scheme="http://wufeifei.art/tags/%E9%9A%8F%E5%BF%83%E6%89%80%E6%AC%B2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://wufeifei.art/2018/12/29/hello-world/"/>
-    <id>http://wufeifei.art/2018/12/29/hello-world/</id>
-    <published>2018-12-29T15:12:33.899Z</published>
-    <updated>2018-12-29T15:12:33.900Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
-    
-    </summary>
-    
     
   </entry>
   
